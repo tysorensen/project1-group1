@@ -2,3 +2,4 @@
 Tristan Holmes
 Angie
 Ty Sorensen
+Ryan Dickson
