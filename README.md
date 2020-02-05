@@ -14,3 +14,5 @@ We attempted to find answers to the following questions:
 * Is there a host country advantage that can be seen in the medal count?
 * Does Body Mass Index (BMI) predict medal success? We use the men's 100m dash as a case study.
 
+## Data Munging
+Web scraped data was obtained from [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results). GDP data from 2000 to 2018 was taken from the [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) For consistency in events and other factors, only data post WWII was considered. Further, the data was broken down by Summer and Winter games and analyses run separately.
