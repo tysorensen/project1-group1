@@ -20,6 +20,6 @@ Web scraped data was obtained from [Kaggle](https://www.kaggle.com/heesoo37/120-
 ## Age and Gender Analysis
 The average age of participants in both the Summer and Winter games declined steadily after WWII until the 1980s, at which point it began to increase again.
 
-[summer_age](images/summer_age_year.png)
+![summer_age](images/summer_age_year.png)
 
-[winter_age](images/winter_age_year.png)
+![winter_age](images/winter_age_year.png)
