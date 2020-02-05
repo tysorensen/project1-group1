@@ -4,9 +4,13 @@
 * Ty Sorensen
 * Ryan Dickson
 
-## Project Outline.
-* This project attempted to answer diverse questions regarding the Summer 2020 Olympics. Data was taken as .csvs from Kaggle, the World Bank, and other verifiable sources.
+## Motivation
+With the 2020 Summer Olympic games upcoming, we were interested in analyzing data and making predictions for Tokyo. This was further motivated by a lack of Olympic research, especially prediction, on cursory examination. We were interested in identifying factors that predict medal success on both a country wide and individual basis
 
-## Can we predict the top 5 medal winning countries at the Summer 2020 Olympics?
-* Looking at countries that won a large number (75 or more) medals at the 2016 Olympics and charting their performance over time, it appears some combination of Australia, China, France, Britain, Germany, Russia, and the United States will be the top five medal winners at the 2020 games.
-![high_winners](resources/high_winners.png)
+## Goals
+We attempted to find answers to the following questions:
+* How does gender affect medal counts?
+* Is GDP predictive of medal success for countries?
+* Is there a host country advantage that can be seen in the medal count?
+* Does Body Mass Index (BMI) predict medal success? We use the men's 100m dash as a case study.
+
