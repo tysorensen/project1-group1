@@ -26,19 +26,19 @@ The average age of participants in both the Summer and Winter games declined ste
 
 The number of female medal winners (and hence the number of women's events) has increased steadily for both the Summer and Winter games.
 
-![summer_gender](images/summer_medal_count_year_gender)
+![summer_gender](images/summer_medal_count_year_gender.png)
 
-![winter_gender](images/winter_medal_count_year_gender)
+![winter_gender](images/winter_medal_count_year_gender.png)
 
 The mean height and weight of participants in both the Summer and Winter games has slowly but steadily increased since the end of WWII, but seems to have leveled off in recent years.
 
-![summer_height](images/summerheight)
+![summer_height](images/summerheight.png)
 
-![summer_weight](images/summerweight)
+![summer_weight](images/summerweight.png)
 
-![winter_height](images/winterheight)
+![winter_height](images/winterheight.png)
 
-![winter_weight](images/winterweight)
+![winter_weight](images/winterweight.png)
 
 ## BMI For Men's 100m Dash
 Upon analysis, gold medal winners appear to be taller and heavier than the average sprinter in this event. Since 1948, gold medal winner weight has increased from 69 to 95 kgs, an increase of 38% or 26kg (57 lbs). Since 1956, gold medalists have been heavier than the average sprinter every year. That said, there is a fairly high degree of variance between medal winners from year to year. 3-time gold medalist Usain Bolt is a very tall strong runner compared to previous medalists dating back to WWII. 
@@ -53,15 +53,15 @@ We attempted to answer the question whether BMI predicts gold medal winners for 
 
 GDP data was sourced from the World Bank. There was a large amount of missing data for GDP for certain countries which had to be cleaned during the analysis. The cleaned GDP dataset was then merged with the Olympics dataset. A regression analysis was performed for the most recent summer and winter games. The r squared values ranged from .17 to .75, with larger values typical for summer games. 
 
-![2000_gdp_lin_reg](images/GDP_vs_Medal_Count_2000_Olympics.png)
+![2000_gdp_lin_reg](images/GDP_vs_MedalCount_2000_Olympics.png)
 
-![2004_gdp_lin_reg](images/GDP_vs_Medal_Count_2004_Olympics.png)
+![2004_gdp_lin_reg](images/GDP_vs_MedalCount_2004_Olympics.png)
 
-![2008_gdp_lin_reg](images/GDP_vs_Medal_Count_2008_Olympics.png)
+![2008_gdp_lin_reg](images/GDP_vs_MedalCount_2008_Olympics.png)
 
-![2012_gdp_lin_reg](images/GDP_vs_Medal_Count_2012_Olympics.png)
+![2012_gdp_lin_reg](images/GDP_vs_MedalCount_2012_Olympics.png)
 
-![2016_gdp_lin_reg](images/GDP_vs_Medal_Count_2016_Olympics.png)
+![2016_gdp_lin_reg](images/GDP_vs_MedalCount_2016_Olympics.png)
 
 ## Host Country Advantage
 
