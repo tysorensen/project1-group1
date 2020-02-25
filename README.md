@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Project 1 Group 1
 * Ryan Dickson
 * Tristan Holmes
@@ -77,7 +76,3 @@ Testing revealed that the distribution of medal counts for host years was not cl
 ## Post Mortem
 
 Given more time and resources, it would be interesting to gain access to a sports information API that had more detailed data. Freely available API's were lacking on this topic. Several further questions occured during the investigation. Does the presence and prominence of professional sports leagues for a given event affect medal count for countries that have them? How big an effect have performance enhancing drugs had on past events? Does population size correlate with a higher medal count?
-=======
-# project1-group1
-Ty Sorensen
->>>>>>> Stashed changes
